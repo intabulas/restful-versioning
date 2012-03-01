@@ -1,5 +1,5 @@
 { 
-	"name" : "restify-moreversion",
+	"name" : "restify-plugins",
 	"version" : "0.0.1",
 	"description" : "Restify middleware that will extract the API version from the Accept header",
 	"main": "lib/index.js",
