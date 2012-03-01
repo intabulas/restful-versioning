@@ -35,4 +35,4 @@ SOFTWARE.
 
 ## Bugs
 
-See <https://github.com/intabukas/restify-plugins/issues>.
+See <https://github.com/intabulas/restify-plugins/issues>.
