@@ -1,18 +1,25 @@
-{ 
-	"name" : "restful-versioning",
-	"version" : "0.0.1",
-	"description" : "restify middleware that will extract the API version from the Accept header",
-	"main": "lib/index.js",
-    "directories": { 
-		"lib": "./lib"
-	},
-	"repository" : {
-		"type": "git",
-		"url": "git://github.com/intabulas/restful-versioning.git"
-	},
-	"license": "MIT",
-	"engine": {
-		"node": ">= 0.4"
-	}
-		
+{
+  "name": "restful-versioning",
+  "version": "0.0.1",
+  "description": "restify middleware that will extract the API version from the Accept header",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/intabulas/restful-versioning.git"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">= 0.4"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "author": "Mark Lussier <mlussier@gmail.com> (http://twitter.com/intabulas)",
+  "homepage": "https://github.com/intabulas/restful-versioning"
 }
