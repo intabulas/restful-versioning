@@ -1,6 +1,6 @@
 #About
 
-[restify-plugins](https://github.com/intabulas/restify-plugins) is a set of experimental plugins for [restify](http://mcavage.github.com/node-restify) that places our opinions ontop of restify's in the areas we disagree on
+[restful-versioning](https://github.com/intabulas/restful-versioning) is a set of experimental plugins for [restify](http://mcavage.github.com/node-restify) that places our opinions ontop of restify's in the areas we disagree on
 
 Currently there is not much here, and in fact all that is here now is a test to extract an API version from a **Accept** header param for our custom mime-type. It simply extracts it and sets **X-API-Version** accordingly. We have some others comming like an alternate accept parsers that will support custom content types (ie: application/vnd. etc)
 
@@ -8,7 +8,7 @@ Currently there is not much here, and in fact all that is here now is a test to 
 
 since we havent put this into the npm registry yet, you can add it to your package.json as a depedency using the http git url
 
-    "restify-plugins": "git://github.com/intabulas/restify-plugins.git"
+    $ npm install restful-versioning
 
 ## License
 
@@ -35,4 +35,4 @@ SOFTWARE.
 
 ## Bugs
 
-See <https://github.com/intabulas/restify-plugins/issues>.
+See <https://github.com/intabulas/restful-versioning/issues>.
