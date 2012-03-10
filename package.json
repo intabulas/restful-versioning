@@ -1,6 +1,6 @@
 {
   "name": "restful-versioning",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "restify middleware that will extract the API version from the Accept header",
   "main": "lib/index.js",
   "directories": {
